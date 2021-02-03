@@ -13,3 +13,5 @@ __pycache__
 # DB
 app.db
 /venv/
+
+.idea
